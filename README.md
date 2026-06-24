@@ -14,6 +14,8 @@ cd glosay
 cargo install --path .
 ```
 
+or just download the binary.
+
 ## Usage
 ```bash
 glosay "your text"
