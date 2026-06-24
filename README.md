@@ -20,5 +20,3 @@ or just download the binary.
 ```bash
 glosay "your text"
 ```
-> [!NOTE]
-> Do not forget the <""> 
