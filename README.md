@@ -1,5 +1,6 @@
 # glosay
-Cowsay but this time glogang says
+## Cowsay but this time glogang says.
+
 i was reading the rust book and finished the chapter 6 and i tought this might be a cool project.
 
 ## Install
