@@ -1,5 +1,8 @@
 # glosay
-<img width="1092" height="696" alt="image" src="https://github.com/user-attachments/assets/38d586f3-d058-4666-8e60-6a54a8705182" />
+
+<img width="932" height="686" alt="image" src="https://github.com/user-attachments/assets/73b0ea43-2f3e-4fdd-93b5-f0142726abff" />
+
+
 ## Cowsay but this time glogang says.
 
 i was reading the rust book and finished the chapter 6 and i tought this might be a cool project.
